@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Dashboard</h2>
+<p>Income: ${{ "%.2f"|format(income) }}</p>
+<p>Expenses: ${{ "%.2f"|format(expenses) }}</p>
+<p>Net: ${{ "%.2f"|format(net) }}</p>
+{% endblock %}
