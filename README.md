@@ -1,1 +1,16 @@
-Developed a personal finance tracker application to help users organize and manage financial information more efficiently. Built the project to practice programming concepts, application structure, and problem-solving while creating a useful tool with real-world functionality. This project strengthened my skills in software development, logic building, and creating practical user-focused applications.
+# Personal Finance Tracker
+
+A personal finance tracker application created to help users organize and manage financial information in one place.
+
+## Features
+- Track financial data
+- Organize personal finance records
+- Practice structured application development
+- Improve problem-solving and programming skills
+
+## Technologies Used
+- Python
+- VS Code
+
+## Purpose
+This project was built to strengthen my software development skills while creating a practical, real-world application.
